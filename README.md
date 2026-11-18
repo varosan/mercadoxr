@@ -10,6 +10,7 @@ Recorrido virtual donde el usuario navega por el exterior e interior para
 
 ## 2 · Cómo se usa
 
+- Enlace a repositorio https://github.com/varosan/mercadoxr
 - Enlace a la escena: https://varosan.github.io/mercadoxr/
 - Dispositivo pensado: computador, teclas flechas (wasd) y mouse
 - Al entrar: el usuario ve el frontis principal ubicado en la calle 1 sur en la ciudad de Talca, específicamente entre las calles 4 y 5 oriente.
